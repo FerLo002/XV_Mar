@@ -15901,6 +15901,11 @@ a.plyr__control::after,a.plyr__control::before {
     cursor: none
 }
 
+.lluvia-de-sobres{
+    align-content: center;
+    align-items: center;
+    background-color: #f9e2e3;
+}
 @media(min-width: 1024px) {
     .plyr:-webkit-full-screen .plyr__captions {
         font-size:21px;
@@ -17840,7 +17845,7 @@ body.rtl .elementor-13627 .elementor-element.elementor-element-d671892 .elemento
 }
 
 .elementor-13627 .elementor-element.elementor-element-cf7c338:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-13627 .elementor-element.elementor-element-cf7c338 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-color: #FAEDED;
+    background-color: #f9e2e3;
 }
 
 .elementor-13627 .elementor-element.elementor-element-cf7c338 > .elementor-element-populated, .elementor-13627 .elementor-element.elementor-element-cf7c338 > .elementor-element-populated > .elementor-background-overlay, .elementor-13627 .elementor-element.elementor-element-cf7c338 > .elementor-background-slideshow {
